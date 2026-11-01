@@ -61,7 +61,7 @@ A campus safety simulation built around connected gameplay services:
 - Accelerated school days, class periods, lunch, and bells.
 - Lockdown and campus-response workflows.
 
-**Additional work:** [Roblox Ranking Service](https://github.com/legendlifr/roblox-ranking-service).
+**Additional work:** [Roblox Ranking Service](https://github.com/AnthonyBuildsDev/roblox-ranking-service).
 
 ## Web development
 
@@ -114,6 +114,6 @@ This profile showcases selected work, prototypes, and ideas. Project maturity va
 
 **Built around real interactions, useful tools, and the details that make a system work.**
 
-[Devoryn Digital](https://devoryndigital.com) · [GitHub](https://github.com/legendlifr)
+[Devoryn Digital](https://devoryndigital.com) · [GitHub](https://github.com/AnthonyBuildsDev)
 
 </div>
